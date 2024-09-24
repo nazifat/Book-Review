@@ -1,0 +1,16 @@
+.signin{
+    width: 25% !important;
+}
+
+body{
+    background-color: white;
+}
+
+.navbar .active{
+    background-color: white !important;
+    border: 1px solid #3ABEAF;
+    color:black;
+}
+.navbar ul li a{
+    color: black !important;
+}

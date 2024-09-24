@@ -1,0 +1,81 @@
+[
+    {
+      "bookId": 1,
+      "bookName": "The Silent Patient",
+      "author": "Alex Michaelides",
+      "image": "https://i.ibb.co/7GZFmDK/attachment-145445081.jpg",
+      "review": "A gripping psychological thriller with an unexpected twist that keeps you hooked until the last page.",
+      "totalPages": 336,
+      "rating": 4.5,
+      "category": "Fiction",
+      "tags": ["Suspense", "Psychological"],
+      "publisher": "Celadon Books",
+      "yearOfPublishing": 2019
+    },
+    {
+      "bookId": 2,
+      "bookName": "Educated",
+      "author": "Tara Westover",
+      "image": "https://i.ibb.co/LzDZdfS/book1.jpg",
+      "review": "An inspiring memoir about a woman who escapes her survivalist family and goes on to earn a PhD from Cambridge University.",
+      "totalPages": 334,
+      "rating": 4.7,
+      "category": "Non-Fiction",
+      "tags": ["Memoir", "Inspiration"],
+      "publisher": "Random House",
+      "yearOfPublishing": 2018
+    },
+    {
+      "bookId": 3,
+      "bookName": "Atomic Habits",
+      "author": "James Clear",
+      "image": "https://i.ibb.co/JK0mGHM/book2.jpg",
+      "review": "A practical guide to building good habits and breaking bad ones, backed by scientific research.",
+      "totalPages": 320,
+      "rating": 4.8,
+      "category": "Self-Help",
+      "tags": ["Productivity", "Behavioral Science"],
+      "publisher": "Avery",
+      "yearOfPublishing": 2018
+    },
+    {
+      "bookId": 4,
+      "bookName": "Where the Crawdads Sing",
+      "author": "Delia Owens",
+      "image": "https://i.ibb.co/tbwmQFS/book3.jpg",
+      "review": "A hauntingly beautiful story set in the wilds of North Carolina, combining mystery, romance, and nature.",
+      "totalPages": 368,
+      "rating": 4.6,
+      "category": "Fiction",
+      "tags": ["Mystery", "Romance"],
+      "publisher": "G.P. Putnam's Sons",
+      "yearOfPublishing": 2018
+    },
+    {
+      "bookId": 5,
+      "bookName": "Sapiens: A Brief History of Humankind",
+      "author": "Yuval Noah Harari",
+      "image": "https://i.ibb.co/BT37kQm/book4.jpg",
+      "review": "An insightful exploration of humanity's history from the Stone Age to modern times, filled with profound ideas.",
+      "totalPages": 498,
+      "rating": 4.7,
+      "category": "History",
+      "tags": ["Anthropology", "Philosophy"],
+      "publisher": "Harper",
+      "yearOfPublishing": 2015
+    },
+    {
+      "bookId": 6,
+      "bookName": "The Alchemist",
+      "author": "Paulo Coelho",
+      "image": "https://i.ibb.co/3mJS83z/book5.jpg",
+      "review": "A timeless tale of self-discovery, following a young shepherd's journey to find his personal legend.",
+      "totalPages": 208,
+      "rating": 4.3,
+      "category": "Fiction",
+      "tags": ["Philosophy", "Adventure"],
+      "publisher": "HarperOne",
+      "yearOfPublishing": 1988
+    }
+  ]
+  
